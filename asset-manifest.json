@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learnorama/static/css/main.f18572ec.css",
-    "main.js": "/learnorama/static/js/main.b7868f61.js",
+    "main.js": "/learnorama/static/js/main.daa421af.js",
     "static/js/239.e39fb35b.chunk.js": "/learnorama/static/js/239.e39fb35b.chunk.js",
     "static/js/977.3e68c99d.chunk.js": "/learnorama/static/js/977.3e68c99d.chunk.js",
     "static/js/455.d639c004.chunk.js": "/learnorama/static/js/455.d639c004.chunk.js",
     "static/js/453.03346f77.chunk.js": "/learnorama/static/js/453.03346f77.chunk.js",
     "index.html": "/learnorama/index.html",
     "main.f18572ec.css.map": "/learnorama/static/css/main.f18572ec.css.map",
-    "main.b7868f61.js.map": "/learnorama/static/js/main.b7868f61.js.map",
+    "main.daa421af.js.map": "/learnorama/static/js/main.daa421af.js.map",
     "239.e39fb35b.chunk.js.map": "/learnorama/static/js/239.e39fb35b.chunk.js.map",
     "977.3e68c99d.chunk.js.map": "/learnorama/static/js/977.3e68c99d.chunk.js.map",
     "455.d639c004.chunk.js.map": "/learnorama/static/js/455.d639c004.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.f18572ec.css",
-    "static/js/main.b7868f61.js"
+    "static/js/main.daa421af.js"
   ]
 }
