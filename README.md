@@ -9,7 +9,7 @@ A full-stack educational platform where users can learn programming, cloud compu
 
 ## Features
 
-- **27 Courses** across Programming, Cloud, and Database categories
+- **12+ Courses** across Programming, Cloud, and Database categories
 - **Interactive quiz engine** — answer questions to progress through lessons
 - **Progress tracking** — resume where you left off, progress bar per course
 - **Certificate generation** — downloadable certificate on course completion
