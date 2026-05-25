@@ -222,6 +222,10 @@ npm run deploy
 ## Screenshots
 
 > Add screenshots of your homepage, course page, lesson view, and certificate here.
+> <img width="1917" height="812" alt="Screenshot 2026-05-25 160405" src="https://github.com/user-attachments/assets/6a3ae466-d3a1-40b6-a9f1-feb953d57b71" />
+<img width="1893" height="821" alt="Screenshot 2026-05-25 160459" src="https://github.com/user-attachments/assets/5ef90377-4d49-4933-a569-584c1c72d3b4" />
+
+
 
 ---
 
